@@ -1,0 +1,17 @@
+body {
+	background-color: #f4f4f4;
+}
+/* Log Table */
+#changelog {
+	border-collapse: collapse;
+	font-family: sans-serif;
+	font-size: 1.1em;
+}
+#changelog td {
+	border: 1px solid #000;
+	vertical-align: top;
+	padding: 2px;
+}
+#changelog thead td {
+	font-weight: bold;
+}
